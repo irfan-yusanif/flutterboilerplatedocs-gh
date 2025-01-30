@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdyte_docs=self.webpackChunkdyte_docs||[]).push([["27074"],{15075:function(e){e.exports=JSON.parse('{"tags":[{"label":"releasenotes","permalink":"/flutterboilerplatedocs/ios/tags/releasenotes","count":1}]}')}}]);
