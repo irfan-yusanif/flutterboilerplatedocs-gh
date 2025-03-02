@@ -2968,7 +2968,7 @@ paths:
         > This API is in beta. [Contact us](https://dyte.io/contact) if you face
         > any issues.
 
-        Starts a track recording in a meeting. Track recordings consist of "layers". Layers are used to map audio/video tracks in a meeting to output destinations. More information about track recordings is available in the [Track Recordings Guide Page](https://docs.dyte.io/guides/capabilities/recording/recording-overview).
+        Starts a track recording in a meeting. Track recordings consist of "layers". Layers are used to map audio/video tracks in a meeting to output destinations. More information about track recordings is available in the [Track Recordings Guide Page](https://bestflutterboilerplate.com/guides/capabilities/recording/recording-overview).
       operationId: Start Track Recording for a Meeting
       requestBody:
         $ref: '#/components/requestBodies/StartTrackRecordingBody'
@@ -2992,7 +2992,7 @@ tags:
   - name: Organizations
   - name: Chat
 externalDocs:
-  url: 'https://docs.dyte.io'
+  url: 'https://bestflutterboilerplate.com'
 components:
   parameters:
     pageNo:
