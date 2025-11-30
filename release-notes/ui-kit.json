@@ -122,7 +122,7 @@
     "version": "1.60.0",
     "createdAt": 1702252800,
     "features": [
-      "<dyte-caption-toggle /> for toggling [captions](https://bestflutterboilerplate.com/guides/capabilities/audio/transcriptions) in the meeting"
+      "<dyte-caption-toggle /> for toggling [captions](https://docs.dyte.io/guides/capabilities/audio/transcriptions) in the meeting"
     ],
     "fixes": [
       "Fixed text in chat placeholder",
@@ -344,7 +344,7 @@
     "version": "1.45.0",
     "createdAt": 1678209000,
     "features": [
-      "**Interactive Livestream Release (LL-HLS)** \n 1. Broadcast a meeting to up to 100,000 viewers with low latency of just 3 to 6 seconds.\n 2. Interactive chat and polls. \n 3. Viewers can raise hands to join the stage or the host can invite viewers to join the stage. \n For more information, see [ILS Overview](https://bestflutterboilerplate.com/guides/livestream/livestream-overview) and [Getting Started with ILS](https://bestflutterboilerplate.com/guides/livestream/getting-started-with-livestreaming)."
+      "**Interactive Livestream Release (LL-HLS)** \n 1. Broadcast a meeting to up to 100,000 viewers with low latency of just 3 to 6 seconds.\n 2. Interactive chat and polls. \n 3. Viewers can raise hands to join the stage or the host can invite viewers to join the stage. \n For more information, see [ILS Overview](https://docs.dyte.io/guides/livestream/livestream-overview) and [Getting Started with ILS](https://docs.dyte.io/guides/livestream/getting-started-with-livestreaming)."
     ],
     "new_api": [
       "New `<dyte-livestream-player />`, `<dyte-livestream-toggle />` and `<dyte-livestream-indicator />` components."
